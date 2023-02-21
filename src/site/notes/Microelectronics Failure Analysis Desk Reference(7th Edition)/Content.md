@@ -8,7 +8,7 @@
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/2. Package Failure Analysis-Flow and Technique\|2. Package Failure Analysis-Flow and Technique]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/3. Chip-Scale Packaging and Its Failure Analysis Challenges\|3. Chip-Scale Packaging and Its Failure Analysis Challenges]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/4. Nondestructive Techniques for Advanced Board Level Failure Analysis\|4. Nondestructive Techniques for Advanced Board Level Failure Analysis]]
-	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/5. Failure Analysis Laboratory Management Principles and Practices\|5. Failure Analysis Laboratory Management Principles and Practices]]
+	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/5. 失效分析实验室管理原则与实践\|5. 失效分析实验室管理原则与实践]]
 - Section 2: Incoming Inspection Tools
 	- Optical Microscopy
 	- X-Ray Imaging Tools for Electronic Device Failure Analysis
