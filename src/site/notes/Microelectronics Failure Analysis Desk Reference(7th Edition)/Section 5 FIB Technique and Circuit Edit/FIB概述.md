@@ -14,7 +14,6 @@ Carl Zeiss SMT PCS, Pleasanton, CA
 
 ## A. Commercially Available FIB Sources
 
-
 ### Liquid Metal Ion Source (LMIS) FIB
 
 The liquid metal ion source has been widely utilized since the 1980s for mask repair, microelectronics failure analysis, and circuit edit [^1]. The gallium focused ion beam (FIB) is the most commonly equipped LMIS in commercial microscopes. The tunability of the beam energy, spot size, and beam current makes it well-suited for a broad range of tasks from large volume excavation to site-specific nanoscale fabrication. FIB sources of other species are also available. Ion species of different masses extends the range of milling rates, spot size, interaction volume, and signal yield achievable by FIB instruments. For comparison, Figure 1 shows simulated models of beam interactions and sputter yield values on silicon for a variety of ion species.
