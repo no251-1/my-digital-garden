@@ -4,7 +4,7 @@
 
 
 - Section 1: Failure Analysis Process and Management 
-	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/1. Overview of Wafer-Level Electrical Failure Analysis Process for Accelerated Yield Engineering\|1. Overview of Wafer-Level Electrical Failure Analysis Process for Accelerated Yield Engineering]]
+	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/1. 用于良率提升工程的晶圆级电性失效分析方法概述\|1. 用于良率提升工程的晶圆级电性失效分析方法概述]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/2. Package Failure Analysis-Flow and Technique\|2. Package Failure Analysis-Flow and Technique]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/3. Chip-Scale Packaging and Its Failure Analysis Challenges\|3. Chip-Scale Packaging and Its Failure Analysis Challenges]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/4. Nondestructive Techniques for Advanced Board Level Failure Analysis\|4. Nondestructive Techniques for Advanced Board Level Failure Analysis]]
