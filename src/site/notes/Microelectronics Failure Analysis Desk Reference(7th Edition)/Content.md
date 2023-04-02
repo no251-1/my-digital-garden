@@ -7,7 +7,7 @@
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/1. 用于良率提升工程的晶圆级电性失效分析方法概述\|1. 用于良率提升工程的晶圆级电性失效分析方法概述]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/2. 封装失效分析：流程与技术\|2. 封装失效分析：流程与技术]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/3. 芯片级封装及其失效分析挑战\|3. 芯片级封装及其失效分析挑战]]
-	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/4. Nondestructive Techniques for Advanced Board Level Failure Analysis\|4. Nondestructive Techniques for Advanced Board Level Failure Analysis]]
+	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/4. 用于高级板级失效分析的非破坏性技术\|4. 用于高级板级失效分析的非破坏性技术]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/5. 失效分析实验室管理原则与实践\|5. 失效分析实验室管理原则与实践]]
 - Section 2: Incoming Inspection Tools
 	- Optical Microscopy
