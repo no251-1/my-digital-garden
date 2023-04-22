@@ -10,7 +10,7 @@
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/4. 用于高级板级失效分析的非破坏性技术\|4. 用于高级板级失效分析的非破坏性技术]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/5. 失效分析实验室管理原则与实践\|5. 失效分析实验室管理原则与实践]]
 - Section 2: Incoming Inspection Tools
-	- Optical Microscopy
+	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 2 Incoming Inspection Tools/1. 光学显微镜\|1. 光学显微镜]]
 	- X-Ray Imaging Tools for Electronic Device Failure Analysis
 	- Acoustic Microscopy of Semiconductor Packages
 - Section 3: Fault Isolation
