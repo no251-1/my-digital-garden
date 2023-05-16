@@ -11,7 +11,7 @@
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/5. 失效分析实验室管理原则与实践\|5. 失效分析实验室管理原则与实践]]
 - Section 2: Incoming Inspection Tools
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 2 Incoming Inspection Tools/1. 光学显微镜\|1. 光学显微镜]]
-	- X-Ray Imaging Tools for Electronic Device Failure Analysis
+	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 2 Incoming Inspection Tools/2. 用于电子器件失效分析的 X 射线成像工具\|2. 用于电子器件失效分析的 X 射线成像工具]]
 	- Acoustic Microscopy of Semiconductor Packages
 - Section 3: Fault Isolation
 	- Diagnosis of Scan Logic and Diagnosis Driven Failure Analysis
