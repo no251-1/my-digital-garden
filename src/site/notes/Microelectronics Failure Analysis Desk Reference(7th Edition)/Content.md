@@ -12,7 +12,7 @@
 - Section 2: Incoming Inspection Tools
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 2 Incoming Inspection Tools/1. 光学显微镜\|1. 光学显微镜]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 2 Incoming Inspection Tools/2. 用于电子器件失效分析的 X 射线成像工具\|2. 用于电子器件失效分析的 X 射线成像工具]]
-	- Acoustic Microscopy of Semiconductor Packages
+	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 2 Incoming Inspection Tools/3. 半导体封装的声学显微镜\|3. 半导体封装的声学显微镜]]
 - Section 3: Fault Isolation
 	- Diagnosis of Scan Logic and Diagnosis Driven Failure Analysis
 	- Magnetic Field Imaging for Electrical Fault Isolation
