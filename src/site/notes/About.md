@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/about/","tags":["gardenEntry"]}
 ---
 
-
 # 我们要做什么（What）
 
 这是一个曾经的失效分析工程师做的网站，旨在翻译《[[Microelectronics Failure Analysis Desk Reference(7th Edition)/Content\|Microelectronics Failure Analysis Desk Reference, Seventh Edition]]》这本书，以及分享一些失效分析的经验。
