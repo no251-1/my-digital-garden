@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/microelectronics-failure-analysis-desk-reference-7th-edition/content/"}
 ---
 
-
 - Section 1: Failure Analysis Process and Management 
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/1. 用于良率提升工程的晶圆级电性失效分析方法概述\|1. 用于良率提升工程的晶圆级电性失效分析方法概述]]
 	- [[Microelectronics Failure Analysis Desk Reference(7th Edition)/Section 1 Failure Analysis Process and Management/2. 封装失效分析：流程与技术\|2. 封装失效分析：流程与技术]]
